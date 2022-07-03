@@ -1,5 +1,7 @@
 # confident-blackbox
 
+This package is under development and not ready to be used.
+
 ## Installation
 
 Please note, that currently the dependencies are listed only in `requirements.in` and must by compiled with `pip-compile`.
