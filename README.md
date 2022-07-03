@@ -2,6 +2,13 @@
 
 This package is under development and not ready to be used.
 
+## Requirements
+
+Some interactive Matplotlib backed, e.g.:
+```
+apt install python3-tk
+```
+
 ## Installation
 
 Please note, that currently the dependencies are listed only in `requirements.in` and must by compiled with `pip-compile`.
